@@ -26,13 +26,6 @@
 - Email: [pavel@example.com](mailto:pavel@example.com)
 - GitHub: [github.com/pahankov](https://github.com/pahankov)
 
----
 
-## 🚀 Этот сайт размещён через GitHub Pages
-
-Вы можете посмотреть его по адресу:  
-**https://pahankov.github.io/ИМЯ-РЕПОЗИТОРИЯ**
-
----
 
 _Спасибо, что заглянули!_
